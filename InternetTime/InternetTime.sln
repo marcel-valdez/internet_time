@@ -1,7 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetTime", "InternetTime\InternetTime.csproj", "{EFDA3B50-4037-4230-8389-AD5964B6F7FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetTimeTest", "InternetTimeTest\InternetTimeTest.csproj", "{2219D8C9-1DCD-4B28-A032-95E15CCD5B36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{EFDA3B50-4037-4230-8389-AD5964B6F7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFDA3B50-4037-4230-8389-AD5964B6F7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFDA3B50-4037-4230-8389-AD5964B6F7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2219D8C9-1DCD-4B28-A032-95E15CCD5B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2219D8C9-1DCD-4B28-A032-95E15CCD5B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2219D8C9-1DCD-4B28-A032-95E15CCD5B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2219D8C9-1DCD-4B28-A032-95E15CCD5B36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

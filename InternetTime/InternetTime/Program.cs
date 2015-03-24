@@ -1,9 +1,10 @@
-﻿using System;
+﻿
+using System;
 
 namespace InternetTime
 {
   /// <summary>
-  /// Summary description for Class1
+  /// Main entry point for the utility
   /// </summary>
   public class Program
   {
