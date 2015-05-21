@@ -2,16 +2,12 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="InternetTime.Test/SNTPClientTest.cs">
     <Files>
-      <File FileName="InternetTime.Test/SNTPClientTest.cs" Line="8" Column="30" />
+      <File FileName="InternetTime.Test/SNTPClientTest.cs" Line="13" Column="17" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.NUnit.TestPad">
         <State name="__root__">
-          <Node name="InternetTime" expanded="True">
-            <Node name="InternetTime.Test" expanded="True">
-              <Node name="InternetTimeTest" selected="True" />
-            </Node>
-          </Node>
+          <Node name="InternetTime" expanded="True" />
         </State>
       </Pad>
     </Pads>
