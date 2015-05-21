@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="InternetTime/InternetTime.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InternetTime.Test/SNTPClientTest.cs">
+    <Files>
+      <File FileName="InternetTime.Test/SNTPClientTest.cs" Line="8" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="InternetTime" expanded="True">
+            <Node name="InternetTime.Test" expanded="True">
+              <Node name="InternetTimeTest" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
